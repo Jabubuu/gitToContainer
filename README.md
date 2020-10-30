@@ -1,6 +1,7 @@
 React project init in cmd:
 
 npx create-react-app gitToContainer
+
 npm start
 
 ## Available Scripts
