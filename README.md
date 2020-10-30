@@ -6,7 +6,7 @@ npm start
 
 ## Docker container start:
 
-docker run --publish 3000:3000 --detach *iamge name here*
+docker run --publish 3000:3000 --detach *image name here*
 
 ## Available Scripts
 
