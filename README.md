@@ -1,8 +1,12 @@
-React project init in cmd:
+## React project init in cmd:
 
 npx create-react-app gitToContainer
 
 npm start
+
+## Docker container start:
+
+docker run --publish 3000:3000 --detach *iamge name here*
 
 ## Available Scripts
 
