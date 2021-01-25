@@ -1,4 +1,4 @@
-## CI/CD workflow testausta GitHubilla ja Docker containerilla.
+## Workflow testausta GitHubilla ja Docker containerilla.
 
 
 ## Docker container start:
